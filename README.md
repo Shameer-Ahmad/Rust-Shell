@@ -1,2 +1,4 @@
-# a7-template
-An assignment to begin learning Rust.
+# Run the program using these commands. A shell with the prompt rush$ should appear to accept commands
+
+cargo build
+cargo run
